@@ -1,0 +1,19 @@
+
+
+# Temporary files
+*.tmp
+*.temp
+
+# Archive files
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.deb
+*.zip
+*.tgz
+
+# Word data files (optional - you may want to include these)
+ *.docs
+ *.doc
