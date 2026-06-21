@@ -15,5 +15,5 @@
 *.tgz
 
 # Word data files (optional - you may want to include these)
- *.docs
- *.doc
+ #*.docs
+ #*.doc
